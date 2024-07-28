@@ -1,0 +1,18 @@
+.accordion-item-grey .accordion-button {
+    background-color: rgb(196, 193, 193) !important;
+    color: white !important;
+    border-radius: 50px !important; 
+    border: 1px solid black;
+    /* Make the accordion button rounded */
+  }
+  
+  .accordion-item-grey .accordion-body {
+    background-color: rgb(196, 193, 193)  !important;
+    color: white !important;
+    /* border-radius: 25px !important; Make the accordion body rounded */
+  }
+  
+  .accordion-item-grey {
+    border-radius: 25px !important; /* Make the entire item rounded */
+  }
+  
